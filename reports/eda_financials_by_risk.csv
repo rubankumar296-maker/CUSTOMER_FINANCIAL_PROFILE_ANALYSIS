@@ -1,0 +1,6 @@
+,Annual_Income,Annual_Income,Annual_Income,Credit_Score,Credit_Score,Credit_Score,Loan_Amount,Loan_Amount,Loan_Amount,Savings_Balance,Savings_Balance,Savings_Balance
+,mean,median,count,mean,median,count,mean,median,count,mean,median,count
+Risk_Level,,,,,,,,,,,,
+High,79032.1,80027.0,334,579.87,580.0,334,24438.43,24140.5,334,98594.29,101567.0,334
+Low,83549.11,82968.0,325,584.67,582.0,325,24535.58,25038.0,325,98626.94,93616.0,325
+Medium,83832.0,85000.0,341,564.18,549.0,341,23604.29,22769.0,341,98967.83,104059.0,341

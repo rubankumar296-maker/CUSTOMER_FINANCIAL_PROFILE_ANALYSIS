@@ -1,0 +1,7 @@
+Metric,Value
+row_count,1000
+column_count,9
+duplicate_column_names,0
+missing_values,0
+duplicate_rows,0
+unique_customer_ids,1000

@@ -1,0 +1,6 @@
+,Annual_Income,Annual_Income,Annual_Income,Savings_Balance,Savings_Balance,Savings_Balance,Credit_Score,Credit_Score,Credit_Score,Loan_Amount,Loan_Amount,Loan_Amount
+,mean,median,count,mean,median,count,mean,median,count,mean,median,count
+Employment_Status,,,,,,,,,,,,
+Employed,83348.16,86924.5,334,98954.64,97849.5,334,589.77,583.5,334,23947.19,24110.0,334
+Self-Employed,84546.04,85242.5,330,98752.05,100711.5,330,569.43,553.0,330,23208.88,22708.0,330
+Unemployed,78566.71,75144.5,336,98491.82,99117.5,336,569.01,566.0,336,25381.75,24767.0,336
